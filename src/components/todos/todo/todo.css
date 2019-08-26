@@ -1,0 +1,19 @@
+.todo{
+    border: 1px solid #ccc;
+    background: #41b883;
+    padding: 1rem;
+    border-radius: 5px;
+    text-align:center;
+    position: relative;
+    cursor: pointer;
+  }
+
+.is-complete{
+    background: #35495e;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 5px;
+    text-align:center;
+    position: relative;
+    cursor: pointer;
+  }
